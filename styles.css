@@ -1,0 +1,52 @@
+#vwSubmit, #dnSubmit{
+  margin-top: 5%;
+  height: 55px;
+}
+#nb, #labeleen{
+  font-size: 10px;
+}
+
+#labeleen input{
+  margin-left: 2%;
+}
+label{
+  font-weight: 100;
+}
+legend{
+  font-weight: 700;
+  font-size: 16px;
+  padding-bottom: 27px;
+}
+form {
+  clear: both;
+  float: left; 
+  width: 100%;
+  margin:0;
+}
+
+form a {
+  color: #F24462;
+}
+
+form a:hover {
+  color: #FFF;
+}
+
+#dnAkkoord, #vwAkkoord{
+  padding: 1%;
+  margin: 1%;
+}
+#dnEmail, #vwEmail {
+  margin-top: 1%;
+}
+.entry {
+  margin-bottom: 15px;
+}
+.bedankt{
+  font-size: 32px;
+  color: #e9425c;
+  font-weight: 700;
+}
+p.error {
+  color: #CC3300;
+}
